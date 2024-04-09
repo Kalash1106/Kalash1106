@@ -1,16 +1,11 @@
-### Hi there 👋
+## Hey 👋, I'm Kalash!
+- 👨🏽‍💻 I’m currently a 4th year UG @IITB
+- 🌱 I am interested & work in Foundation & Large Language Models
+-  ⚡ Fun fact: I like trying out almost anything and everything!
+<p align="center">
+  
+![Kalash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalash1106&show_icons=true&theme=radical)
+</p>
 
-<!--
-**Kalash1106/Kalash1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me:
+<a href="https://www.linkedin.com/in/kalash-shah-b4567a20b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
