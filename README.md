@@ -1,5 +1,6 @@
-## Hey 👋, I'm Kalash!
-- 👨🏽‍💻 I’m currently a 4th year UG @IITB
+## Hey 👋, I'm Kalash Shah!
+- 👨🏽‍💻 I currently work as an AI Research Engineer @ Fractal Analytics (https://fractal.ai/ai-research/)
+- 👨🏽‍💻 I graduated from IIT Bombay in 2024. I am a major in Mechanical Engineering and have done minors in CS & AI
 - 🌱 I am interested & work in Foundation & Large Language Models
 -  ⚡ Fun fact: I like trying out almost anything and everything!
 <p align="center">
